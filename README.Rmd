@@ -5,7 +5,7 @@ output:
 ---
 
 ```{r, setup, include = FALSE}
-knitr::opts_knit$set(root.dir = 'J:/_jurelFN-national-assessment-GITHUB/jjm_national_assessment/')
+knitr::opts_knit$set(root.dir = 'J:/___ctd-background/2301-c.c0-evaluacion-stock-modelos-estructurales/pub/')
 knitr::opts_chunk$set(
   collapse = TRUE,
   tidy=TRUE,
