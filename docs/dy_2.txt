@@ -1,0 +1,17 @@
+--------------------------------------------------
+## Modulo 8: Explorar el comportamiento del modelo
+--------------------------------------------------
+* incertidumbre en el MSY
+* kobe plot (cuadrantes de explotación) 
+
+>> Factores en el comportamineto de la curva del MSY: 
+    ** steepness
+    ** mortalidad natural 
+    ** tiempo de la madurez y la vulnerabilidad 
+##########
+        ***desodependencia solo ocurre en el reclutamiento ?
+        tambine puede ocurrir en el crecimiento corporal y madurez 
+        *** La mortalidad natural no cambia en el timepo ?
+        *** Que el unico factor cambiante para los stocks es la pesca 
+        *** Solo permite una flota de pesca  con un patron fijo de vulnerabilidad
+##########    
