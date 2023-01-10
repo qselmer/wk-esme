@@ -1,0 +1,38 @@
+---
+title: "dy_1"
+author: "Elmer Quispe Salazar"
+date: "2023-01-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Evaluación de stock usando modelos estructurados
+
+--------------------------------------------------
+## Teoria y comportamiento de modelos estructurados por edad mediante simulación
+--------------------------------------------------
+
+### sistema de manejo y toma de decisiones 
+* opciones regulatorias y objetivos de manejos 
+* puntos de referencia
+** rotación de areas (invertebrados)
+** TAC_t  = TAC_t-1 + b*deltaCPUE
+** TAC_t  = TAC_t-1 + b*Reclutamiento
+** Simulaciones en **MSE**
+* _MRS_, _Puntos de referencia objetivos_, _Puntos de referencia Limites_
+
+### Pesquerias sin evaluación
+
+--------------------------------------------------
+## Modulo 1: Seguimientos de los numeros totales
+--------------------------------------------------
+* Estructura de modelos :  **secuencia de eventos** (1)
+* Año calendario y año biologico (2)
+ ** pulsos de reclutamientos 
+
+
+
+
