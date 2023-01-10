@@ -1,0 +1,63 @@
+---
+title: "dy_1"
+author: "Elmer Quispe Salazar"
+date: "2023-01-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Evaluación de stock usando modelos estructurados
+
+--------------------------------------------------
+## Teoria y comportamiento de modelos estructurados por edad mediante simulación
+--------------------------------------------------
+
+### sistema de manejo y toma de decisiones 
+* opciones regulatorias y objetivos de manejos 
+* puntos de referencia
+** rotación de areas (invertebrados)
+** TAC_t  = TAC_t-1 + b*deltaCPUE
+** TAC_t  = TAC_t-1 + b*Reclutamiento
+** Simulaciones en **MSE**
+* _MRS_, _Puntos de referencia objetivos_, _Puntos de referencia Limites_
+
+### Pesquerias sin evaluación
+
+--------------------------------------------------
+## Modulo 1: Seguimientos de los numeros totales
+--------------------------------------------------
+* Estructura de modelos :  **secuencia de eventos** (1)
+* Año calendario y año biologico (2)
+ ** pulsos de reclutamientos 
+
+--------------------------------------------------
+## Modulo 2: Estructura de edad
+--------------------------------------------------
+* secuencia de eventos (time de eventos cruciales)
+* vulnerabilidad a la edad
+* Tasa de explotación **apical**
+* u_t,a = u_t*v_a
+* u_t mortalidad de pesca  de los individuos completamente vulnerable
+realmente cosechadas por una flota
+* el u_t puede cambiar por la dinamica de flota
+* cohorte real == cohorte virtual (población en equilibrio ?)
+* fase de transición 
+* parametros variante por periodos de tiempo bajo aspectos 
+administrativo o biologico {regimenes} : Mortalidad 
+
+--------------------------------------------------
+## Modulo 3: Crecimiento corporal
+--------------------------------------------------
+* funcion nomotonica
+* crecimiento determinado e indeterminado
+* Analisis de autocorrelacion en Linf y K, que tan correlacionado esta. 
+* progresion modal para persquerias con una larga historia en la pesca, 
+ya que las tallas mayores han desaparecido
+
+--------------------------------------------------
+## Modulo 6: REPRODUCTORES Y RECLUTAS
+--------------------------------------------------
+* sstepness
